@@ -16,7 +16,7 @@ A Windows desktop application that converts **BDX files** into **standard MIDI**
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Windows 10 or later
 - [.NET Framework 4.7.2+](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
@@ -42,3 +42,15 @@ A Windows desktop application that converts **BDX files** into **standard MIDI**
    ```bash
    git clone https://github.com/madafue/BDXToolbox.git
    cd BDXToolbox
+   ```
+   
+2. Open the .sln in Visual Studio
+3. Build and run
+
+---
+
+## Credits
+- http://banbro.moeru.info for very useful documentation
+- Reina Mori, for custom illustrated icon
+- [@rickey390](https://x.com/rickey930/) for work on previous modding tools
+- [Yasu](http://home.usay.jp/pc/etc/nds/) for developing some of the original tools that work with BDX files
